@@ -1,0 +1,47 @@
+title: 殴りロボ2(仮)資料集
+
+markdown: CommonMarkGhPages
+commonmark:
+  extensions:
+    - autolink
+    - strikethrough
+    - table
+
+timezone: Asia/Tokyo
+lang: ja-JP
+encoding: utf-8
+
+theme: jekyll-theme-primer
+
+collections:
+  howto:
+    output: true
+  tips:
+    output: true
+  specs:
+    output: true
+  pages:
+    output: true
+
+relative_links:
+  enabled:     true
+  collections: true
+
+defaults:
+  - scope:
+      type: howto
+    values:
+      layout: tips
+  - scope:
+      type: tips
+    values:
+      layout: tips
+  - scope:
+      type: specs
+    values:
+      layout: specs
+      fix: false
+  - scope:
+      type: posts
+    values:
+      layout: blogs
