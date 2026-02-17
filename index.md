@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: specs
 title: 殴りロボ3(仮)資料集
 permalink: /
 ---
