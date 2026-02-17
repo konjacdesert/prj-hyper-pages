@@ -1,6 +1,6 @@
 ---
 layout: home
-title: {{ site.title }}
+title: 殴りロボ3(仮)資料集
 permalink: /
 ---
 
