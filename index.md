@@ -1,8 +1,9 @@
 ---
-layout: specs
-title: 殴りロボ3(仮)資料集
+layout: home
 permalink: /
 ---
+
+# {{ site.title }}
 
 ## ゲームの説明
 VRChatで遊べる対戦アクションゲームです。
