@@ -46,6 +46,5 @@ VRChatで遊べる対戦アクションゲームです。
 {% endfor %}
 
 ***
-***
 
 [.](./_pages/specs.md)
